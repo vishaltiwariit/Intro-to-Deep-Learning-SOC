@@ -23,16 +23,10 @@ Welcome to the official repository for the **Intro to Deep Learning** track of *
 
 ## 📂 Folder Overview
 
-- **Weekly folders** contain lessons, notes, assignments, and practice questions.
+- **Weekly folders** assignments, and practice questions.
 - **Final Project** folder includes the capstone CNN project with dataset resources.
-- **Resources** includes helpful tutorials, cheat sheets, and more.
 
 ---
 
-## 💻 Getting Started
-
-```bash
-git clone https://github.com/<your-username>/Intro-to-Deep-Learning-SOC.git
-cd Intro-to-Deep-Learning-SOC
 
    
