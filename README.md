@@ -1,57 +1,38 @@
 # Intro-to-Deep-Learning-SOC
 Welcome to Summer of Code. Happy learning!!
 
-Intro-to-Deep-Learning-SOC/
-│
-├── README.md
-├── LICENSE
-│
-├── Week1_Introduction_to_Neurons/
-│   ├── README.md
-│   ├── theory.pdf / theory.ipynb
-│   ├── practice_questions.md
-│   └── resources.md
-│
-├── Week2_Neural_Networks/
-│   ├── README.md
-│   ├── assignment_1_cat_classifier.ipynb
-│   ├── practice_questions.md
-│   └── notes.pdf
-│
-├── Week3_Deep_Neural_Networks/
-│   ├── README.md
-│   ├── assignment_2_improve_cat_classifier.ipynb
-│   ├── practice_questions.md
-│   └── notes.pdf
-│
-├── Week4_Multi_Class_Classification/
-│   ├── README.md
-│   ├── digit_classifier_mini_project.ipynb
-│   ├── practice_questions.md
-│   └── dataset_link.txt
-│
-├── Week5_Intro_to_CNN/
-│   ├── README.md
-│   ├── cnn_theory_and_examples.ipynb
-│   ├── practice_questions.md
-│   └── sample_architectures.md
-│
-├── Week6_Intro_to_TensorFlow/
-│   ├── README.md
-│   ├── tensorflow_basics_assignment.ipynb
-│   ├── practice_questions.md
-│   └── cheatsheet.pdf
-│
-├── Week7_8_Final_Project/
-│   ├── README.md
-│   ├── multi_class_cnn_project_template.ipynb
-│   ├── checkpoints/
-│   │   └── checkpoint_guidelines.md
-│   └── datasets/
-│       └── dataset_sources.md
-│
-└── Resources/
-    ├── book_links.md
-    ├── video_lectures.md
-    ├── cheat_sheets/
-    └── tips_tricks.md
+# 🧠 Intro to Deep Learning – Summer of Code
+
+Welcome to the official repository for the **Intro to Deep Learning** track of **Summer of Code**. Over 8 weeks, we'll walk you through the fundamentals of neural networks and CNNs, with practical assignments and mini-projects to build your deep learning skills from the ground up!
+
+---
+
+## 📅 Weekly Timeline
+
+| Week | Topic | Checkpoint |
+|------|-------|------------|
+| 1 | Introduction to Neurons, ML Basics | - |
+| 2 | Neural Networks, Gradient Descent, Backpropagation | Cat/Non-Cat Classifier Assignment |
+| 3 | Deep Neural Networks | Improving Classifier |
+| 4 | Multi-class Classification | Digit Classification Mini Project |
+| 5 | Introduction to CNNs | - |
+| 6 | TensorFlow Basics | TensorFlow Assignment |
+| 7-8 | Final Project | CNN-Based Image Classifier |
+
+---
+
+## 📂 Folder Overview
+
+- **Weekly folders** contain lessons, notes, assignments, and practice questions.
+- **Final Project** folder includes the capstone CNN project with dataset resources.
+- **Resources** includes helpful tutorials, cheat sheets, and more.
+
+---
+
+## 💻 Getting Started
+
+```bash
+git clone https://github.com/<your-username>/Intro-to-Deep-Learning-SOC.git
+cd Intro-to-Deep-Learning-SOC
+
+   
