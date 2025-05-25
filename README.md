@@ -1,6 +1,3 @@
-# Intro-to-Deep-Learning-SOC
-Welcome to Summer of Code. Happy learning!!
-
 # 🧠 Intro to Deep Learning – Summer of Code
 
 Welcome to the official repository for the **Intro to Deep Learning** track of **Summer of Code**. Over 8 weeks, we'll walk you through the fundamentals of neural networks and CNNs, with practical assignments and mini-projects to build your deep learning skills from the ground up!
